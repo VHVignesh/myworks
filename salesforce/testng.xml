@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Salesforce">
+	
+	<test name= "newcontact">
+		<classes>
+			<class name="testcases.Contact"></class>	
+		</classes>
+	</test>
+	
+	<test name="newopportunities">
+	<classes>
+			<class name="testcases.Opportunities"></class>	
+		</classes>
+	</test>
+	
+	<test name="newtask">
+	<classes>
+			<class name="testcases.Task"></class>
+		</classes>
+	</test>
+</suite>

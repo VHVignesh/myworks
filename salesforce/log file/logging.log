@@ -1,0 +1,20 @@
+2022-11-05 18:01:41 INFO  commonfunctions:59 - Salesforce applicaion testing begins
+2022-11-05 18:01:41 INFO  commonfunctions:60 - Loading the property file
+2022-11-05 18:01:42 INFO  commonfunctions:80 - Launching Chrome browser
+2022-11-05 18:01:46 INFO  commonfunctions:97 - Navigating to Application
+2022-11-05 18:01:48 INFO  Contact:20 - Logging in to application
+2022-11-05 18:01:57 INFO  Contact:33 - Creating new contact
+2022-11-05 18:02:13 INFO  Contact:60 - Getting the contact details
+2022-11-05 18:02:14 INFO  Contact:63 - verification
+2022-11-05 18:02:14 INFO  Contact:71 - End of Contact test case 
+2022-11-05 18:02:14 INFO  Opportunities:19 - Navigating to opportunity page
+2022-11-05 18:02:18 INFO  Opportunities:28 - Creating new Opportunity
+2022-11-05 18:02:26 INFO  Opportunities:45 - Getting the Opportunity details
+2022-11-05 18:02:26 INFO  Opportunities:48 - verification
+2022-11-05 18:02:26 INFO  Opportunities:56 - End of Opportunities test case 
+2022-11-05 18:02:26 INFO  commonfunctions:17 - Navigating to task page
+2022-11-05 18:02:29 INFO  commonfunctions:23 - Creating new Task
+2022-11-05 18:02:38 INFO  commonfunctions:35 - Getting the task details
+2022-11-05 18:02:38 INFO  commonfunctions:37 - verification
+2022-11-05 18:02:38 INFO  commonfunctions:46 - End of Task test case 
+2022-11-05 18:02:38 INFO  commonfunctions:105 - Execution done. closing the browser
